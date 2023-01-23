@@ -18,7 +18,7 @@ export const Projects = () => {
   const projects = [
 
     {
-      title: <a target="blank" href="https://e-comm-new.netlify.app/">see project</a>,
+      title: <a target="blank" href="https://atta-hamamah.github.io/ecommerce/">see project</a>,
       description: "Full responsive and functiong e-commerce clone",
       imgUrl: ecomm,
     },
@@ -34,7 +34,7 @@ export const Projects = () => {
       imgUrl: service,
     },
     {
-      title: <a target="blank" href="https://react-live-netflix-clone.netlify.app/">see project</a>,
+      title: <a target="blank" href="http://atta-hamamah.github.io/nf-clone">see project</a>,
       description: "Netflix full live clone",
       imgUrl: net,
     },
@@ -44,12 +44,12 @@ export const Projects = () => {
       imgUrl: weather,
     },
     {
-      title: <a target="blank" href="https://tenzies-game-app.netlify.app/">see project</a>,
+      title: <a target="blank" href="https://atta-hamamah.github.io/tenzies-game/">see project</a>,
       description: "TENZI game",
       imgUrl: tenzi,
     },
     {
-      title: <a target="blank" href="https://react-typing-speed-new-game.netlify.app/">see project</a>,
+      title: <a target="blank" href="http://atta-hamamah.github.io/typing-test">see project</a>,
       description: "test your typing speed",
       imgUrl: typ,
     },
