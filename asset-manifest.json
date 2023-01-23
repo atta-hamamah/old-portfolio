@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-new/static/css/main.2b8a8e11.css",
-    "main.js": "/portfolio-react-new/static/js/main.05d3b082.js",
+    "main.css": "/portfolio-react-new/static/css/main.4b90a9ce.css",
+    "main.js": "/portfolio-react-new/static/js/main.e7ca4266.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-react-new/static/js/787.fb771931.chunk.js",
     "static/media/frnd.jpg": "/portfolio-react-new/static/media/frnd.d5990094c63f453a7981.jpg",
     "static/media/color-sharp.png": "/portfolio-react-new/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -9,6 +9,7 @@
     "static/media/ecomm.jpg": "/portfolio-react-new/static/media/ecomm.b9bca139a2deac35001f.jpg",
     "static/media/tenzi.jpg": "/portfolio-react-new/static/media/tenzi.fdd398863f146dd691e6.jpg",
     "static/media/banner-bg.png": "/portfolio-react-new/static/media/banner-bg.757f84ca5e960f830ee7.png",
+    "static/media/react.png": "/portfolio-react-new/static/media/react.31f1a121d3b012d458b9.png",
     "static/media/service.jpg": "/portfolio-react-new/static/media/service.c95e1320a85203556598.jpg",
     "static/media/kasper.jpg": "/portfolio-react-new/static/media/kasper.5cb721c7b85b70f881e5.jpg",
     "static/media/net.jpg": "/portfolio-react-new/static/media/net.37a00b32cf89ca886362.jpg",
@@ -21,30 +22,29 @@
     "static/media/Cars.jpg": "/portfolio-react-new/static/media/Cars.4880c0204f9b0b055e75.jpg",
     "static/media/log.jpg": "/portfolio-react-new/static/media/log.5f0ffc081e8ee58f758c.jpg",
     "static/media/contact-img.svg": "/portfolio-react-new/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/sas.png": "/portfolio-react-new/static/media/sas.b7b4af745dd2ad7e582c.png",
-    "static/media/bot.png": "/portfolio-react-new/static/media/bot.8a2736061e37e46ca471.png",
+    "static/media/bot.png": "/portfolio-react-new/static/media/bot.5f7e2134612e0ff9eb26.png",
     "static/media/typing.png": "/portfolio-react-new/static/media/typing.e1096a66478e023165b4.png",
-    "static/media/Re.png": "/portfolio-react-new/static/media/Re.69304f2f544b3c8a2e9c.png",
-    "static/media/Css.png": "/portfolio-react-new/static/media/Css.0ca0cf0b9690a9d1a067.png",
+    "static/media/Css.jpg": "/portfolio-react-new/static/media/Css.79e08bed55c31b165884.jpg",
+    "static/media/html.jpg": "/portfolio-react-new/static/media/html.50b6a81c37e9ac6d26ce.jpg",
+    "static/media/JS.png": "/portfolio-react-new/static/media/JS.aa2e5317530cc7559aea.png",
+    "static/media/cmd.png": "/portfolio-react-new/static/media/cmd.5fef00eb0247c1c0c414.png",
     "static/media/GG.png": "/portfolio-react-new/static/media/GG.b1c8dc1182df8b7a76ea.png",
-    "static/media/redux.png": "/portfolio-react-new/static/media/redux.ea6b84b3c21ee19cb5ad.png",
-    "static/media/Td.png": "/portfolio-react-new/static/media/Td.334a16a661e5755cf4fa.png",
     "static/media/revicons.eot": "/portfolio-react-new/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/router.jpg": "/portfolio-react-new/static/media/router.1d51e371256ddbf1e140.jpg",
     "static/media/revicons.ttf": "/portfolio-react-new/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/cmd.png": "/portfolio-react-new/static/media/cmd.e28432feaff534fce168.png",
+    "static/media/Td.jpg": "/portfolio-react-new/static/media/Td.6a3487568be520449c0e.jpg",
     "static/media/revicons.woff": "/portfolio-react-new/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/nav-icon3.svg": "/portfolio-react-new/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/logo.svg": "/portfolio-react-new/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "index.html": "/portfolio-react-new/index.html",
     "static/media/nav-icon1.svg": "/portfolio-react-new/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio-react-new/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.2b8a8e11.css.map": "/portfolio-react-new/static/css/main.2b8a8e11.css.map",
-    "main.05d3b082.js.map": "/portfolio-react-new/static/js/main.05d3b082.js.map",
+    "main.4b90a9ce.css.map": "/portfolio-react-new/static/css/main.4b90a9ce.css.map",
+    "main.e7ca4266.js.map": "/portfolio-react-new/static/js/main.e7ca4266.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-react-new/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b8a8e11.css",
-    "static/js/main.05d3b082.js"
+    "static/css/main.4b90a9ce.css",
+    "static/js/main.e7ca4266.js"
   ]
 }
