@@ -61,8 +61,7 @@ export const Banner = () => {
                     University in 2019 --bachelor degree in libraries and modern information technology--
                     I worked as a freelancer for Opera News, and I 
                     worked as a technical support representative --American account--
-                    for an international customer service company
-                    --UX centers-- and I am currently working as a Front-End / React developer on Upwork since 2021</p>
+                    at --UX centers-- and I am happy to say that im following my passion in programming and working as a Front-End developer</p>
                   <button > continue <ArrowRightCircle size={25} /></button>
               </div>}
               
