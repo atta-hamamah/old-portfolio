@@ -3,12 +3,10 @@ import { ProjectCard } from "./ProjectCard";
 import ecomm from "../assets/img/ecomm.jpg";
 import service from "../assets/img/service.jpg";
 import net from "../assets/img/net.jpg";
-import weather from "../assets/img/weather.png";
 import tenzi from "../assets/img/tenzi.jpg";
 import kasper from "../assets/img/kasper.jpg";
 import car from "../assets/img/Cars.jpg";
 import typ from "../assets/img/typing.png";
-import memes from "../assets/img/meme.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -39,11 +37,6 @@ export const Projects = () => {
       imgUrl: net,
     },
     {
-      title: <a target="blank" href="https://weather-app-8a17e.web.app/">see project</a>,
-      description: "live weather app using real data",
-      imgUrl: weather,
-    },
-    {
       title: <a target="blank" href="https://atta-hamamah.github.io/tenzies-game/">see project</a>,
       description: "TENZI game",
       imgUrl: tenzi,
@@ -57,11 +50,6 @@ export const Projects = () => {
       title: <a target="blank" href="https://atta-hamamah.github.io/HTML-CSS-project2/">see project</a>,
       description: "cool modern landing page",
       imgUrl: kasper,
-    },
-    {
-      title: <a target="blank" href="https://memes-5e373.web.app/">see project</a>,
-      description: "memes generator ",
-      imgUrl: memes,
     },
   ];
 
@@ -88,9 +76,6 @@ export const Projects = () => {
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                     <Tab.Pane eventKey="first">
-                      <p>to see the projects click the link included then
-                         wait couple of seconds till the hoster
-                         loads the page , if didn't work click the link again</p>
                       <Row>
                         {
                           projects.map((project, index) => {
