@@ -1,4 +1,3 @@
-
 import html from "../assets/img/html.jpg";
 import Css from "../assets/img/Css.jpg";
 import JS from "../assets/img/JS.png";
