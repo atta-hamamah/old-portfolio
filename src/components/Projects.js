@@ -33,11 +33,6 @@ export const Projects = () => {
       imgUrl: car,
     },
     {
-      title: <a target="blank" href="https://p-landing.web.app/">see project</a>,
-      description: "Full responsive Service provider simulator",
-      imgUrl: service,
-    },
-    {
       title: <a target="blank" href="http://atta-hamamah.github.io/nf-clone">see project</a>,
       description: "Netflix full live clone",
       imgUrl: net,
