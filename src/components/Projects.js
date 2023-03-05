@@ -1,6 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import ecomm from "../assets/img/ecomm.jpg";
+import ecom from "../assets/img/ecom.jpg";
 import service from "../assets/img/service.jpg";
 import net from "../assets/img/net.jpg";
 import tenzi from "../assets/img/tenzi.jpg";
@@ -16,8 +17,13 @@ export const Projects = () => {
   const projects = [
 
     {
+      title: <a target="blank" href="https://atta-hamamah.github.io/ecommerce-react-task/">see project</a>,
+      description: "Full responsive and functiong e-commerce ",
+      imgUrl: ecom,
+    },
+    {
       title: <a target="blank" href="https://atta-hamamah.github.io/ecommerce/">see project</a>,
-      description: "Full responsive and functiong e-commerce clone",
+      description: "Full responsive and functiong e-commerce ",
       imgUrl: ecomm,
     },
 
@@ -45,11 +51,6 @@ export const Projects = () => {
       title: <a target="blank" href="http://atta-hamamah.github.io/typing-test">see project</a>,
       description: "test your typing speed",
       imgUrl: typ,
-    },
-    {
-      title: <a target="blank" href="https://atta-hamamah.github.io/HTML-CSS-project2/">see project</a>,
-      description: "cool modern landing page",
-      imgUrl: kasper,
     },
   ];
 
