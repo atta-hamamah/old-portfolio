@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-react-new/static/css/main.69028914.css",
-    "main.js": "/portfolio-react-new/static/js/main.08ad3936.js",
+    "main.js": "/portfolio-react-new/static/js/main.a20432be.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-react-new/static/js/787.fb771931.chunk.js",
     "static/media/frnd.jpg": "/portfolio-react-new/static/media/frnd.d5990094c63f453a7981.jpg",
     "static/media/color-sharp.png": "/portfolio-react-new/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio-react-new/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/bot.png": "/portfolio-react-new/static/media/bot.f4923ca9b622c9d318c8.png",
     "static/media/ecomm.jpg": "/portfolio-react-new/static/media/ecomm.b9bca139a2deac35001f.jpg",
+    "static/media/ecom.jpg": "/portfolio-react-new/static/media/ecom.cdf1771e895bae936065.jpg",
     "static/media/tenzi.jpg": "/portfolio-react-new/static/media/tenzi.fdd398863f146dd691e6.jpg",
     "static/media/banner-bg.png": "/portfolio-react-new/static/media/banner-bg.757f84ca5e960f830ee7.png",
     "static/media/service.jpg": "/portfolio-react-new/static/media/service.c95e1320a85203556598.jpg",
@@ -43,11 +44,11 @@
     "static/media/nav-icon1.svg": "/portfolio-react-new/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio-react-new/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.69028914.css.map": "/portfolio-react-new/static/css/main.69028914.css.map",
-    "main.08ad3936.js.map": "/portfolio-react-new/static/js/main.08ad3936.js.map",
+    "main.a20432be.js.map": "/portfolio-react-new/static/js/main.a20432be.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-react-new/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69028914.css",
-    "static/js/main.08ad3936.js"
+    "static/js/main.a20432be.js"
   ]
 }
