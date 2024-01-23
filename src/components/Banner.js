@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/frnd.jpg";
+import headerImg from "../assets/img/IMG.jpeg";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Developer", "Designer"];
+  const toRotate = [ "Developer", "Coder"];
   const period = 1000;
 
   useEffect(() => {
@@ -48,7 +48,7 @@ export const Banner = () => {
   }
 
   return (
-    <section className="banner" id="home">
+    <section className="banner " id="home">
       <Container>
         <Row className="aligh-items-center">
           <Col xs={12} md={6} xl={7}>
@@ -57,11 +57,11 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`hello there! this is Atta web`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["",""]'><span className="wrap">{text}</span></span></h1>
-                  <p>Hello, I am Atta, graduated from Al-Azhar 
-                    University in 2019 --bachelor degree in libraries and modern information technology--
-                    I worked as a freelancer for Opera News, and I 
-                    worked as a technical support representative --American account--
-                    at --UX centers-- and I am happy to say that im following my passion in programming and working as a Front-End developer</p>
+                  <p>Hello, my name is Atta hamamah .a software engineer , graduated from Al-Azhar 
+                    University , I was born in 1996
+                    Worked As a FreeLancer Front-end React developer till 2023
+                    . Started a Full time Position as Front-end developer at<a href="https://www.linkedin.com/company/knowledge-bridge-solutitions/mycompany/"> Knowledge Bridge Solutions</a> in march 2023
+                    </p>
                   <button > continue <ArrowRightCircle size={25} /></button>
               </div>}
               

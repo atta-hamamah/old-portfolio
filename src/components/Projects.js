@@ -31,7 +31,7 @@ export const Projects = () => {
       title: <a target="blank" href="https://cars-a19e4.web.app/">see project</a>,
       description: "Full responsive Cars website , toggle between Dashboard and booking",
       imgUrl: car,
-    },
+    },  
     {
       title: <a target="blank" href="http://atta-hamamah.github.io/nf-clone">see project</a>,
       description: "Netflix full live clone",

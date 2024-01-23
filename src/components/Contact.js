@@ -25,7 +25,7 @@ export const Contact = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setButtonText("Sending...");
+    setButtonText("Sent");
     let response = await fetch("http://localhost:5000/contact", {
       method: "POST",
       headers: {
@@ -58,7 +58,7 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <h3>this is a dummy Copy to Content use social media platforms or Email 7atta3@gmail.com</h3>
+                <h3> Reach me on social media platforms or Email 7atta3@gmail.com</h3>
                 <form onSubmit={handleSubmit}>
                   <Row>
                     <Col size={12} sm={6} className="px-1">
