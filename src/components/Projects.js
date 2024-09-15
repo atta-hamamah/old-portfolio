@@ -12,7 +12,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: <a target="blank" href="https://cars-a19e4.web.app/">see project</a>,
+      title: <a target="blank" href="hhttps://cars-dashb.netlify.app/">see project</a>,
       description: "Full responsive Cars website , toggle between Dashboard and booking",
       imgUrl: car,
     },
