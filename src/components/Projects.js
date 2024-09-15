@@ -5,7 +5,6 @@ import net from "../assets/img/net.jpg";
 import tenzi from "../assets/img/tenzi.jpg";
 import car from "../assets/img/Cars.jpg";
 import typ from "../assets/img/typing.png";
-import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 

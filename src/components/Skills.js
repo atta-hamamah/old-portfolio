@@ -17,49 +17,49 @@ import colorSharp from "../assets/img/color-sharp.png"
 export const Skills = () => {
     return (
         <section className="skill" id="skills">
-            <img className="background-image-left" src={colorSharp} alt="Image" />
+            <img className=" background-image-left " src={colorSharp} alt="" />
             <div className="skill-bx">
                 <h2>Skills</h2>
                 <p>skills linked to programming</p>
                 <div className="sp-cont">
                     <div className="item0">
-                        <img src={html} alt="Image" />
+                        <img src={html} alt="" />
                     </div>
                     <div className="item1">
-                        <img src={Css} alt="Image" />
+                        <img src={Css} alt="" />
                     </div>
                     <div className="item2">
-                        <img src={JS} alt="Image" />
+                        <img src={JS} alt="" />
                     </div>
                     <div className="item3">
-                        <img src={sas} alt="Image" />
+                        <img src={sas} alt="" />
                     </div>
                     <div className="item4">
-                        <img src={bot} alt="Image" />
+                        <img src={bot} alt="" />
                     </div>
                     <div className="item5">
-                        <img src={Td} alt="Image" />
+                        <img src={Td} alt="" />
                     </div>
                     <div className="item6">
-                        <img src={Re} alt="Image" />
+                        <img src={Re} alt="" />
                     </div>
                     <div className="item7 ">
-                        <img src={Rdx} alt="Image" />
+                        <img src={Rdx} alt="" />
                     </div>
                     <div className="item8 ">
-                        <img src={GG} alt="Image" />
+                        <img src={GG} alt="" />
                     </div>
                     <div className="item9">
-                        <img src={cmd} alt="Image" />
+                        <img src={cmd} alt="" />
                     </div>
                     <div className="item10">
-                        <img src={fig} alt="Image" />
+                        <img src={fig} alt="" />
                     </div>
                     <div className="item11">
-                        <img src={next} alt="Image" />
+                        <img src={next} alt="" />
                     </div>
                     <div className="item12">
-                        <img src={ts} alt="Image" />
+                        <img src={ts} alt="" />
                     </div>
                 </div>
                 <div className="skills-un">

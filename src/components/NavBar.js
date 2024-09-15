@@ -54,7 +54,7 @@ export const NavBar = () => {
                 <a href="https://www.facebook.com/profile.php?id=100012591522459" ><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/atta_hamamah/" ><img src={navIcon3} alt="" /></a>
               </div>
-              <p style={{ fontSize: '14px', color: 'white', marginTop: '15px' }} >7atta3@gmail.com</p>
+              <p style={{ fontSize: '10px', color: 'white', marginTop: '15px' }} >7atta3@gmail.com</p>
             </span>
           </Navbar.Collapse>
         </Container>
