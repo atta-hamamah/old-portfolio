@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import react from "../assets/img/react2.png";

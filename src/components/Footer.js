@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { Container, Row, Col } from "react-bootstrap";
 import logo from "../assets/img/log.jpg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
