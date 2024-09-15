@@ -1,9 +1,10 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/IMG.jpeg";
+import react from "../assets/img/react2.png";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import { Nav } from "react-bootstrap";
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -11,7 +12,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Developer", "Coder"];
+  const toRotate = ["Developer", "Coder"];
   const period = 1000;
 
   useEffect(() => {
@@ -54,24 +55,25 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`hello there! this is Atta web`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["",""]'><span className="wrap">{text}</span></span></h1>
-                  <p>Hello, my name is Atta hamamah .a software engineer , graduated from Al-Azhar 
+                <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+                  <span className="tagline">Welcome to my Portfolio</span>
+                  <h1>{`hello there! this is Atta web`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["",""]'><span className="wrap">{text}</span></span></h1>
+                  <p>Hello, my name is Atta hamamah .a software engineer , graduated from Al-Azhar
                     University , I was born in 1996
                     Worked As a FreeLancer Front-end React developer till 2023
                     . Started a Full time Position as Front-end developer at<a href="https://www.linkedin.com/company/knowledge-bridge-solutitions/mycompany/"> Knowledge Bridge Solutions</a> in march 2023
-                    </p>
-                  <button > continue <ArrowRightCircle size={25} /></button>
-              </div>}
-              
+                  </p>
+                  <Nav.Link href="#skills" >
+                    <button > continue <ArrowRightCircle size={25} /></button>
+                  </Nav.Link>
+                </div>}
             </TrackVisibility>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <TrackVisibility>
               {({ isVisible }) =>
-                <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-                  <img src={headerImg} alt="Header Img"/>
+                <div className={isVisible ? " rotate " : ""}>
+                  <img src={react} alt="Header Img" />
                 </div>}
             </TrackVisibility>
           </Col>

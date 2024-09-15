@@ -47,17 +47,15 @@ export const NavBar = () => {
               <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
               <Nav.Link href="#skills" className={activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('skills')}>Skills</Nav.Link>
               <Nav.Link href="#project" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('project')}>projects</Nav.Link>
-              
+
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/atta-hamamah-1407b1181/"><img src={navIcon1} alt=""  /></a>
+                <a href="https://www.linkedin.com/in/atta-hamamah-1407b1181/"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/profile.php?id=100012591522459" ><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/atta_hamamah/" ><img src={navIcon3} alt="" /></a>
               </div>
-              <HashLink to='#connect'>
-                <button className="vvd"><span>Let’s Connect</span></button>
-              </HashLink>
+              <p style={{ fontSize: '14px', color: 'white', marginTop: '15px' }} >7atta3@gmail.com</p>
             </span>
           </Navbar.Collapse>
         </Container>
