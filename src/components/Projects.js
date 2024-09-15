@@ -17,14 +17,9 @@ export const Projects = () => {
       imgUrl: car,
     },
     {
-      title: <a target="blank" href="https://atta-hamamah.github.io/ecommerce-react-task/">see project</a>,
-      description: "Full responsive and functiong e-commerce ",
+      title: <a target="blank" href="https://lucky-sorbet-86ec72.netlify.app/">see project</a>,
+      description: "Full responsive and functioning e-commerce ",
       imgUrl: ecom,
-    },
-    {
-      title: <a target="blank" href="http://atta-hamamah.github.io/nf-clone">see project</a>,
-      description: "Netflix full live clone",
-      imgUrl: net,
     },
     {
       title: <a target="blank" href="https://atta-hamamah.github.io/tenzies-game/">see project</a>,
