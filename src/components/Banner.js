@@ -61,8 +61,8 @@ export const Banner = () => {
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>{`hello there! this is Atta web`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["",""]'><span className="wrap">{text}</span></span></h1>
                   <p>Hello, my name is Atta hamamah .a software engineer , graduated from Al-Azhar
-                    University , I was born in 1996
-                    Worked As a FreeLancer Front-end React developer till 2023
+                    University , I was born 1996 , graduated 2019.
+                    i Worked As a FreeLancer Front-end React developer till 2023
                     . Started a Full time Position as Front-end developer at<a href="https://www.linkedin.com/company/knowledge-bridge-solutitions/mycompany/"> Knowledge Bridge Solutions</a> in march 2023
                   </p>
                   <Nav.Link href="#skills" >
