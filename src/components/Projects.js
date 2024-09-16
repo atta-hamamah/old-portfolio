@@ -1,7 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import ecom from "../assets/img/ecom.jpg";
-import net from "../assets/img/net.jpg";
 import tenzi from "../assets/img/tenzi.jpg";
 import car from "../assets/img/Cars.jpg";
 import typ from "../assets/img/typing.png";
