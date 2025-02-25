@@ -1,1 +1,2 @@
 
+React app designed and developed by me includes contact info and work samples 
